@@ -1,0 +1,16 @@
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\bin\Debug\net5.0\SamuraiApp.UI.exe
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\bin\Debug\net5.0\SamuraiApp.UI.deps.json
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\bin\Debug\net5.0\SamuraiApp.UI.runtimeconfig.json
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\bin\Debug\net5.0\SamuraiApp.UI.runtimeconfig.dev.json
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\bin\Debug\net5.0\SamuraiApp.UI.dll
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\bin\Debug\net5.0\ref\SamuraiApp.UI.dll
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\bin\Debug\net5.0\SamuraiApp.UI.pdb
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\obj\Debug\net5.0\SamuraiApp.UI.csprojAssemblyReference.cache
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\obj\Debug\net5.0\SamuraiApp.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\obj\Debug\net5.0\SamuraiApp.UI.AssemblyInfoInputs.cache
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\obj\Debug\net5.0\SamuraiApp.UI.AssemblyInfo.cs
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\obj\Debug\net5.0\SamuraiApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\obj\Debug\net5.0\SamuraiApp.UI.dll
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\obj\Debug\net5.0\ref\SamuraiApp.UI.dll
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\obj\Debug\net5.0\SamuraiApp.UI.pdb
+C:\Users\crlafuente\source\repos\SamuraiApp\SamuraiApp.UI\obj\Debug\net5.0\SamuraiApp.UI.genruntimeconfig.cache
